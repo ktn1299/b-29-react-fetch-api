@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  color: #eb0c0c;
+  background-color: black;
+  
+}
+
+ul {
+  list-style-type: disc;
+  margin: 20px;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  color: #0b23fa;
+}
+
+table, th, td {
+  border: 1px solid #080707;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  background-color: #fff9f9;
+}
+
+th {
+  background-color: #06fdf1;
+}
+
+
+
+
